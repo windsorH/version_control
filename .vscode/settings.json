@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "typedef_keep.h": "c",
+        "stdlib.h": "c",
+        "chrono": "c",
+        "cmath": "c",
+        "algorithm_type_def.h": "c",
+        "type_traits": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
